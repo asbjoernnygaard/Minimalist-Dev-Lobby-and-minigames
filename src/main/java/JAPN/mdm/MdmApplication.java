@@ -1,13 +1,13 @@
-package japn.Minimalist.Devlobby.and.Minigames;
+package JAPN.mdm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MinimalistDevlobbyAndMinigamesApplication {
+public class MdmApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MinimalistDevlobbyAndMinigamesApplication.class, args);
+		SpringApplication.run(MdmApplication.class, args);
 	}
 
 }

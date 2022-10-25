@@ -8,11 +8,11 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>japn</groupId>
-	<artifactId>Minimalist-Devlobby-and-Minigames</artifactId>
+	<groupId>JAPN</groupId>
+	<artifactId>mdm</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Minimalist-Devlobby-and-Minigames</name>
-	<description>Lobby with minigames and chat function</description>
+	<name>mdm</name>
+	<description>Dev Lobby and Minigames</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

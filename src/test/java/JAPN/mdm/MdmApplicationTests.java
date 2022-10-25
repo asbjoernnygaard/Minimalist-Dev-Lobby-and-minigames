@@ -1,10 +1,10 @@
-package japn.Minimalist.Devlobby.and.Minigames;
+package JAPN.mdm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MinimalistDevlobbyAndMinigamesApplicationTests {
+class MdmApplicationTests {
 
 	@Test
 	void contextLoads() {
