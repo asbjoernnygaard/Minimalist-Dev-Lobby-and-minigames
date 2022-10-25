@@ -1,4 +1,4 @@
-package JAPN.mdm;
+package JA.mdm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
