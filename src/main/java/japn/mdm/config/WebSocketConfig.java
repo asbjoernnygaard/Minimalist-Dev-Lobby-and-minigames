@@ -1,4 +1,4 @@
-package JA.mdm.config;
+package japn.mdm.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;

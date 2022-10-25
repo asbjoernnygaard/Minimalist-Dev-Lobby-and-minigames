@@ -1,4 +1,4 @@
-package JA.mdm.model;
+package japn.mdm.model;
 
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
 
