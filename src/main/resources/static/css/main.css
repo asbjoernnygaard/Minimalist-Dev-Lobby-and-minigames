@@ -43,3 +43,28 @@ body:before {
 .hidden {
   display: none;
 }
+
+.form-control {
+  width: 100%;
+  min-height:38px;
+  font-size: 15px;
+  border: 1px solid #c8c8c8
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+input {
+  padding-left: 10px;
+  outline: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 1.7em;
+}
